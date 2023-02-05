@@ -1,0 +1,223 @@
+2023-02-03 15:44:50,635: INFO: *******Test_001_login*********
+2023-02-03 15:44:50,650: INFO: ******Verifying Home page title********
+2023-02-03 15:44:54,436: INFO: ***********home page title is passed*************
+2023-02-03 15:44:56,127: INFO: *******verifying Login test*********
+2023-02-03 15:45:04,303: INFO: *******Login test is passed*********
+2023-02-03 16:54:19,392: INFO: *******Test_001_login*********
+2023-02-03 16:54:19,392: INFO: ******Verifying Home page title********
+2023-02-03 16:54:23,490: INFO: ***********home page title is passed*************
+2023-02-03 16:54:28,040: INFO: *******verifying Login test*********
+2023-02-03 16:54:35,801: INFO: *******Login test is passed*********
+2023-02-03 16:56:02,737: INFO: *******Test_001_login*********
+2023-02-03 16:56:02,738: INFO: ******Verifying Home page title********
+2023-02-03 16:56:07,028: INFO: ***********home page title is passed*************
+2023-02-03 16:56:10,991: INFO: *******verifying Login test*********
+2023-02-03 16:56:18,141: INFO: *******Login test is passed*********
+2023-02-03 17:05:29,687: INFO: *******Test_001_login*********
+2023-02-03 17:05:29,687: INFO: ******Verifying Home page title********
+2023-02-03 17:05:35,053: INFO: ***********home page title is passed*************
+2023-02-03 17:05:45,887: INFO: *******verifying Login test*********
+2023-02-03 17:05:53,249: INFO: *******Login test is passed*********
+2023-02-03 17:32:21,927: INFO: *******Test_001_login*********
+2023-02-03 17:32:21,951: INFO: ******Verifying Home page title********
+2023-02-03 17:32:26,325: INFO: ***********home page title is passed*************
+2023-02-03 17:32:28,152: INFO: *******verifying Login test*********
+2023-02-03 17:32:38,210: INFO: *******Login test is passed*********
+2023-02-03 17:33:04,605: INFO: *******Test_001_login*********
+2023-02-03 17:33:04,605: INFO: ******Verifying Home page title********
+2023-02-03 17:33:09,010: INFO: ***********home page title is passed*************
+2023-02-03 17:33:20,065: INFO: *******verifying Login test*********
+2023-02-03 17:33:25,302: INFO: *******Login test is passed*********
+2023-02-03 17:34:37,428: INFO: *******Test_001_login*********
+2023-02-03 17:34:37,428: INFO: ******Verifying Home page title********
+2023-02-03 17:34:42,302: INFO: ***********home page title is passed*************
+2023-02-03 17:34:46,571: INFO: *******verifying Login test*********
+2023-02-03 17:34:55,611: INFO: *******Login test is passed*********
+2023-02-03 17:37:27,814: INFO: *******Test_001_login*********
+2023-02-03 17:37:27,814: INFO: ******Verifying Home page title********
+2023-02-03 17:37:27,931: INFO: *******verifying Login test*********
+2023-02-03 17:37:33,082: INFO: ***********home page title is passed*************
+2023-02-03 17:37:38,291: INFO: *******Login test is passed*********
+2023-02-03 17:39:12,700: INFO: *******verifying Login test*********
+2023-02-03 17:39:13,014: INFO: *******Test_001_login*********
+2023-02-03 17:39:13,015: INFO: ******Verifying Home page title********
+2023-02-03 17:39:17,291: INFO: ***********home page title is passed*************
+2023-02-03 17:39:20,684: INFO: *******Login test is passed*********
+2023-02-03 17:46:42,684: INFO: *******Test_001_login*********
+****
+2023-02-03 17:46:42,784: INFO: ******Verifying Home page title********
+2023-02-03 17:46:47,815: INFO: ***********home page title is passed*************
+2023-02-03 17:46:52,851: INFO: *******Login test is passed*********
+2023-02-03 18:50:14,751: INFO: ********Test_001_login_ddt********
+2023-02-03 18:50:14,799: INFO: *********Starting test_login_ddt******
+2023-02-03 18:54:02,763: INFO: ********Test_001_login_ddt********
+2023-02-03 18:54:02,763: INFO: *********Starting test_login_ddt******
+2023-02-03 18:57:55,837: INFO: ********Test_001_login_ddt********
+2023-02-03 18:57:55,837: INFO: *********Starting test_login_ddt******
+2023-02-03 19:00:10,592: INFO: ********Test_001_login_ddt********
+2023-02-03 19:00:10,592: INFO: *********Starting test_login_ddt******
+2023-02-03 19:02:19,105: INFO: ********Test_001_login_ddt********
+2023-02-03 19:02:19,105: INFO: *********Starting test_login_ddt******
+2023-02-03 19:03:19,846: INFO: ********Test_001_login_ddt********
+2023-02-03 19:03:19,846: INFO: *********Starting test_login_ddt******
+2023-02-03 19:04:06,041: INFO: ********Test_001_login_ddt********
+2023-02-03 19:04:06,049: INFO: *********Starting test_login_ddt******
+2023-02-03 19:06:13,322: INFO: ********Test_001_login_ddt********
+2023-02-03 19:06:13,322: INFO: *********Starting test_login_ddt******
+2023-02-03 19:08:34,168: INFO: ********Test_001_login_ddt********
+2023-02-03 19:08:34,168: INFO: *********Starting test_login_ddt******
+2023-02-03 19:15:34,243: INFO: ********Test_001_login_ddt********
+2023-02-03 19:15:34,243: INFO: *********Starting test_login_ddt******
+2023-02-03 19:15:34,307: INFO: *********collected the data from the file******
+2023-02-03 19:15:45,286: INFO: *********logged into the application******
+2023-02-03 19:15:46,711: INFO: *********logged into the application using the correct details******
+2023-02-03 19:15:51,250: INFO: *********negative testing failed********
+2023-02-03 19:15:55,590: INFO: *********negative testing failed********
+2023-02-03 19:15:59,633: INFO: *********negative testing failed********
+2023-02-03 19:15:59,664: INFO: ********The login_ddt test passed***********
+2023-02-04 16:06:14,101: INFO: <map object at 0x000001F48AD045E0>
+2023-02-04 16:06:14,101: INFO: <map object at 0x000001F48AD045E0>
+2023-02-04 16:20:41,907: INFO: the customer with the details ['kep992vt@gmail.com', 'Isabella', 'Jones', 'gyzBTRaH', 'Female'] has been added successfully
+2023-02-04 16:24:44,913: INFO: the customer with the details {'email': '976hyahl@gmail.com', 'fname': 'Jackson', 'lname': 'Davis', 'pswd': 'ZTNnRHa2', 'gender': 'Male'} has been added successfully
+2023-02-04 17:30:04,249: INFO: ++++++Search customer by email failed++++
+2023-02-04 17:37:03,342: INFO: ++++++Search customer by email failed++++
+2023-02-04 17:37:17,544: INFO: ++++Search by customer name failed++++++
+2023-02-04 17:54:01,715: INFO: ++++++Search customer by email failed++++
+2023-02-04 17:54:15,937: INFO: ++++Search by customer name failed++++++
+2023-02-04 18:01:38,969: INFO: ++++Search by customer name failed++++++
+2023-02-04 18:32:49,602: INFO: ++++++Search customer by email failed++++
+2023-02-04 18:33:02,564: INFO: ++++Search by customer name failed++++++
+2023-02-04 18:55:51,495: INFO: ++++Search by customer name failed++++++
+2023-02-04 18:59:56,437: INFO: ++++Search by customer name failed++++++
+2023-02-04 19:07:09,592: INFO: ++++Search by customer name failed++++++
+2023-02-04 19:10:29,499: INFO: ++++Search by customer name failed++++++
+2023-02-04 19:13:05,596: INFO: +++++Search customer by email passed+++++++
+2023-02-04 19:13:16,404: INFO: ++++Search by customer name failed++++++
+2023-02-05 19:11:20,308: INFO: *******verifying Login test*********
+2023-02-05 19:11:20,308: INFO: *******verifying Login test*********
+2023-02-05 19:11:20,308: INFO: *******verifying Login test*********
+2023-02-05 19:11:20,308: INFO: *******verifying Login test*********
+2023-02-05 19:11:28,694: INFO: *******Login test is passed*********
+2023-02-05 19:11:28,694: INFO: *******Login test is passed*********
+2023-02-05 19:11:28,694: INFO: *******Login test is passed*********
+2023-02-05 19:11:28,694: INFO: *******Login test is passed*********
+2023-02-05 19:11:31,148: INFO: ********Test_001_login_ddt********
+2023-02-05 19:11:31,148: INFO: ********Test_001_login_ddt********
+2023-02-05 19:11:31,148: INFO: ********Test_001_login_ddt********
+2023-02-05 19:11:31,148: INFO: ********Test_001_login_ddt********
+2023-02-05 19:11:31,148: INFO: *********Starting test_login_ddt******
+2023-02-05 19:11:31,148: INFO: *********Starting test_login_ddt******
+2023-02-05 19:11:31,148: INFO: *********Starting test_login_ddt******
+2023-02-05 19:11:31,148: INFO: *********Starting test_login_ddt******
+2023-02-05 19:11:31,422: INFO: *********collected the data from the file******
+2023-02-05 19:11:31,422: INFO: *********collected the data from the file******
+2023-02-05 19:11:31,422: INFO: *********collected the data from the file******
+2023-02-05 19:11:31,422: INFO: *********collected the data from the file******
+2023-02-05 19:11:41,750: INFO: *********logged into the application******
+2023-02-05 19:11:41,750: INFO: *********logged into the application******
+2023-02-05 19:11:41,750: INFO: *********logged into the application******
+2023-02-05 19:11:41,750: INFO: *********logged into the application******
+2023-02-05 19:11:43,082: INFO: *********logged into the application using the correct details******
+2023-02-05 19:11:43,082: INFO: *********logged into the application using the correct details******
+2023-02-05 19:11:43,082: INFO: *********logged into the application using the correct details******
+2023-02-05 19:11:43,082: INFO: *********logged into the application using the correct details******
+2023-02-05 19:11:47,558: INFO: *********negative testing failed********
+2023-02-05 19:11:47,558: INFO: *********negative testing failed********
+2023-02-05 19:11:47,558: INFO: *********negative testing failed********
+2023-02-05 19:11:47,558: INFO: *********negative testing failed********
+2023-02-05 19:11:51,928: INFO: *********negative testing failed********
+2023-02-05 19:11:51,928: INFO: *********negative testing failed********
+2023-02-05 19:11:51,928: INFO: *********negative testing failed********
+2023-02-05 19:11:51,928: INFO: *********negative testing failed********
+2023-02-05 19:11:55,974: INFO: *********negative testing failed********
+2023-02-05 19:11:55,974: INFO: *********negative testing failed********
+2023-02-05 19:11:55,974: INFO: *********negative testing failed********
+2023-02-05 19:11:55,974: INFO: *********negative testing failed********
+2023-02-05 19:11:56,009: INFO: ********The login_ddt test passed***********
+2023-02-05 19:11:56,009: INFO: ********The login_ddt test passed***********
+2023-02-05 19:11:56,009: INFO: ********The login_ddt test passed***********
+2023-02-05 19:11:56,009: INFO: ********The login_ddt test passed***********
+2023-02-05 19:12:16,706: INFO: +++++Search customer by email passed+++++++
+2023-02-05 19:12:16,706: INFO: +++++Search customer by email passed+++++++
+2023-02-05 19:12:16,706: INFO: +++++Search customer by email passed+++++++
+2023-02-05 19:12:16,706: INFO: +++++Search customer by email passed+++++++
+2023-02-05 19:12:31,252: INFO: ++++Search by customer name failed++++++
+2023-02-05 19:12:31,252: INFO: ++++Search by customer name failed++++++
+2023-02-05 19:12:31,252: INFO: ++++Search by customer name failed++++++
+2023-02-05 19:12:31,252: INFO: ++++Search by customer name failed++++++
+2023-02-05 19:13:05,786: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 19:13:05,786: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 19:13:05,786: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 19:13:05,786: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 19:13:32,948: INFO: the customer with the details {'email': '2qk2tp2y@gmail.com', 'fname': 'Noah', 'lname': 'Williams', 'pswd': '08LMUyQk', 'gender': 'Male'} has been added successfully
+2023-02-05 19:13:32,948: INFO: the customer with the details {'email': '2qk2tp2y@gmail.com', 'fname': 'Noah', 'lname': 'Williams', 'pswd': '08LMUyQk', 'gender': 'Male'} has been added successfully
+2023-02-05 19:13:32,948: INFO: the customer with the details {'email': '2qk2tp2y@gmail.com', 'fname': 'Noah', 'lname': 'Williams', 'pswd': '08LMUyQk', 'gender': 'Male'} has been added successfully
+2023-02-05 19:13:32,948: INFO: the customer with the details {'email': '2qk2tp2y@gmail.com', 'fname': 'Noah', 'lname': 'Williams', 'pswd': '08LMUyQk', 'gender': 'Male'} has been added successfully
+2023-02-05 19:13:35,138: INFO: *******verifying Login test*********
+2023-02-05 19:13:35,138: INFO: *******verifying Login test*********
+2023-02-05 19:13:35,138: INFO: *******verifying Login test*********
+2023-02-05 19:13:35,138: INFO: *******verifying Login test*********
+2023-02-05 19:13:42,560: INFO: *******Login test is passed*********
+2023-02-05 19:13:42,560: INFO: *******Login test is passed*********
+2023-02-05 19:13:42,560: INFO: *******Login test is passed*********
+2023-02-05 19:13:42,560: INFO: *******Login test is passed*********
+2023-02-05 19:13:45,057: INFO: ********Test_001_login_ddt********
+2023-02-05 19:13:45,057: INFO: ********Test_001_login_ddt********
+2023-02-05 19:13:45,057: INFO: ********Test_001_login_ddt********
+2023-02-05 19:13:45,057: INFO: ********Test_001_login_ddt********
+2023-02-05 19:13:45,057: INFO: *********Starting test_login_ddt******
+2023-02-05 19:13:45,057: INFO: *********Starting test_login_ddt******
+2023-02-05 19:13:45,057: INFO: *********Starting test_login_ddt******
+2023-02-05 19:13:45,057: INFO: *********Starting test_login_ddt******
+2023-02-05 19:13:45,129: INFO: *********collected the data from the file******
+2023-02-05 19:13:45,129: INFO: *********collected the data from the file******
+2023-02-05 19:13:45,129: INFO: *********collected the data from the file******
+2023-02-05 19:13:45,129: INFO: *********collected the data from the file******
+2023-02-05 19:13:55,272: INFO: *********logged into the application******
+2023-02-05 19:13:55,272: INFO: *********logged into the application******
+2023-02-05 19:13:55,272: INFO: *********logged into the application******
+2023-02-05 19:13:55,272: INFO: *********logged into the application******
+2023-02-05 19:13:56,866: INFO: *********logged into the application using the correct details******
+2023-02-05 19:13:56,866: INFO: *********logged into the application using the correct details******
+2023-02-05 19:13:56,866: INFO: *********logged into the application using the correct details******
+2023-02-05 19:13:56,866: INFO: *********logged into the application using the correct details******
+2023-02-05 19:14:01,421: INFO: *********negative testing failed********
+2023-02-05 19:14:01,421: INFO: *********negative testing failed********
+2023-02-05 19:14:01,421: INFO: *********negative testing failed********
+2023-02-05 19:14:01,421: INFO: *********negative testing failed********
+2023-02-05 19:14:05,791: INFO: *********negative testing failed********
+2023-02-05 19:14:05,791: INFO: *********negative testing failed********
+2023-02-05 19:14:05,791: INFO: *********negative testing failed********
+2023-02-05 19:14:05,791: INFO: *********negative testing failed********
+2023-02-05 19:14:09,814: INFO: *********negative testing failed********
+2023-02-05 19:14:09,814: INFO: *********negative testing failed********
+2023-02-05 19:14:09,814: INFO: *********negative testing failed********
+2023-02-05 19:14:09,814: INFO: *********negative testing failed********
+2023-02-05 19:14:09,852: INFO: ********The login_ddt test passed***********
+2023-02-05 19:14:09,852: INFO: ********The login_ddt test passed***********
+2023-02-05 19:14:09,852: INFO: ********The login_ddt test passed***********
+2023-02-05 19:14:09,852: INFO: ********The login_ddt test passed***********
+2023-02-05 19:14:28,748: INFO: +++++Search customer by email passed+++++++
+2023-02-05 19:14:28,748: INFO: +++++Search customer by email passed+++++++
+2023-02-05 19:14:28,748: INFO: +++++Search customer by email passed+++++++
+2023-02-05 19:14:28,748: INFO: +++++Search customer by email passed+++++++
+2023-02-05 19:14:40,950: INFO: ++++Search by customer name failed++++++
+2023-02-05 19:14:40,950: INFO: ++++Search by customer name failed++++++
+2023-02-05 19:14:40,950: INFO: ++++Search by customer name failed++++++
+2023-02-05 19:14:40,950: INFO: ++++Search by customer name failed++++++
+2023-02-05 19:33:13,292: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 19:33:13,292: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 19:33:13,292: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 19:33:13,292: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 19:33:40,409: INFO: the customer with the details {'email': 'shvmt7nx@gmail.com', 'fname': 'Sophia', 'lname': 'Smith', 'pswd': 'eIOEgdLQ', 'gender': 'Female'} has been added successfully
+2023-02-05 19:33:40,409: INFO: the customer with the details {'email': 'shvmt7nx@gmail.com', 'fname': 'Sophia', 'lname': 'Smith', 'pswd': 'eIOEgdLQ', 'gender': 'Female'} has been added successfully
+2023-02-05 19:33:40,409: INFO: the customer with the details {'email': 'shvmt7nx@gmail.com', 'fname': 'Sophia', 'lname': 'Smith', 'pswd': 'eIOEgdLQ', 'gender': 'Female'} has been added successfully
+2023-02-05 19:33:40,409: INFO: the customer with the details {'email': 'shvmt7nx@gmail.com', 'fname': 'Sophia', 'lname': 'Smith', 'pswd': 'eIOEgdLQ', 'gender': 'Female'} has been added successfully
+2023-02-05 19:33:42,752: INFO: *******verifying Login test*********
+2023-02-05 19:33:42,752: INFO: *******verifying Login test*********
+2023-02-05 19:33:42,752: INFO: *******verifying Login test*********
+2023-02-05 19:33:42,752: INFO: *******verifying Login test*********
+2023-02-05 19:33:53,049: INFO: *******Login test is passed*********
+2023-02-05 19:33:53,049: INFO: *******Login test is passed*********
+2023-02-05 19:33:53,049: INFO: *******Login test is passed*********
+2023-02-05 19:33:53,049: INFO: *******Login test is passed*********
