@@ -221,3 +221,75 @@
 2023-02-05 19:33:53,049: INFO: *******Login test is passed*********
 2023-02-05 19:33:53,049: INFO: *******Login test is passed*********
 2023-02-05 19:33:53,049: INFO: *******Login test is passed*********
+2023-02-05 23:13:37,544: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:13:37,544: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:13:37,544: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:13:37,544: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:14:05,568: INFO: the customer with the details {'email': 'g8pcg41c@gmail.com', 'fname': 'Isabella', 'lname': 'Brown', 'pswd': '8u9Zov9X', 'gender': 'Female'} has been added successfully
+2023-02-05 23:14:05,568: INFO: the customer with the details {'email': 'g8pcg41c@gmail.com', 'fname': 'Isabella', 'lname': 'Brown', 'pswd': '8u9Zov9X', 'gender': 'Female'} has been added successfully
+2023-02-05 23:14:05,568: INFO: the customer with the details {'email': 'g8pcg41c@gmail.com', 'fname': 'Isabella', 'lname': 'Brown', 'pswd': '8u9Zov9X', 'gender': 'Female'} has been added successfully
+2023-02-05 23:14:05,568: INFO: the customer with the details {'email': 'g8pcg41c@gmail.com', 'fname': 'Isabella', 'lname': 'Brown', 'pswd': '8u9Zov9X', 'gender': 'Female'} has been added successfully
+2023-02-05 23:14:07,757: INFO: *******verifying Login test*********
+2023-02-05 23:14:07,757: INFO: *******verifying Login test*********
+2023-02-05 23:14:07,757: INFO: *******verifying Login test*********
+2023-02-05 23:14:07,757: INFO: *******verifying Login test*********
+2023-02-05 23:14:20,092: INFO: *******Login test is passed*********
+2023-02-05 23:14:20,092: INFO: *******Login test is passed*********
+2023-02-05 23:14:20,092: INFO: *******Login test is passed*********
+2023-02-05 23:14:20,092: INFO: *******Login test is passed*********
+2023-02-05 23:14:57,828: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:14:57,828: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:14:57,828: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:14:57,828: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:15:25,496: INFO: the customer with the details {'email': '95b1z8wf@gmail.com', 'fname': 'Sophia', 'lname': 'Brown', 'pswd': 'w9slMsM0', 'gender': 'Male'} has been added successfully
+2023-02-05 23:15:25,496: INFO: the customer with the details {'email': '95b1z8wf@gmail.com', 'fname': 'Sophia', 'lname': 'Brown', 'pswd': 'w9slMsM0', 'gender': 'Male'} has been added successfully
+2023-02-05 23:15:25,496: INFO: the customer with the details {'email': '95b1z8wf@gmail.com', 'fname': 'Sophia', 'lname': 'Brown', 'pswd': 'w9slMsM0', 'gender': 'Male'} has been added successfully
+2023-02-05 23:15:25,496: INFO: the customer with the details {'email': '95b1z8wf@gmail.com', 'fname': 'Sophia', 'lname': 'Brown', 'pswd': 'w9slMsM0', 'gender': 'Male'} has been added successfully
+2023-02-05 23:15:27,465: INFO: *******verifying Login test*********
+2023-02-05 23:15:27,465: INFO: *******verifying Login test*********
+2023-02-05 23:15:27,465: INFO: *******verifying Login test*********
+2023-02-05 23:15:27,465: INFO: *******verifying Login test*********
+2023-02-05 23:15:36,605: INFO: *******Login test is passed*********
+2023-02-05 23:15:36,605: INFO: *******Login test is passed*********
+2023-02-05 23:15:36,605: INFO: *******Login test is passed*********
+2023-02-05 23:15:36,605: INFO: *******Login test is passed*********
+2023-02-05 23:20:53,826: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:20:53,826: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:20:53,826: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:20:53,826: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:21:20,148: INFO: the customer with the details {'email': '1e6mazew@gmail.com', 'fname': 'Charlotte', 'lname': 'Moore', 'pswd': 'rcFYYHeJ', 'gender': 'Male'} has been added successfully
+2023-02-05 23:21:20,148: INFO: the customer with the details {'email': '1e6mazew@gmail.com', 'fname': 'Charlotte', 'lname': 'Moore', 'pswd': 'rcFYYHeJ', 'gender': 'Male'} has been added successfully
+2023-02-05 23:21:20,148: INFO: the customer with the details {'email': '1e6mazew@gmail.com', 'fname': 'Charlotte', 'lname': 'Moore', 'pswd': 'rcFYYHeJ', 'gender': 'Male'} has been added successfully
+2023-02-05 23:21:20,148: INFO: the customer with the details {'email': '1e6mazew@gmail.com', 'fname': 'Charlotte', 'lname': 'Moore', 'pswd': 'rcFYYHeJ', 'gender': 'Male'} has been added successfully
+2023-02-05 23:52:19,448: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:52:19,448: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:52:19,448: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:52:19,448: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-05 23:52:51,450: INFO: the customer with the details {'email': 'ksaqklir@gmail.com', 'fname': 'Ethan', 'lname': 'Smith', 'pswd': 'sqv7cNZO', 'gender': 'Male'} has been added successfully
+2023-02-05 23:52:51,450: INFO: the customer with the details {'email': 'ksaqklir@gmail.com', 'fname': 'Ethan', 'lname': 'Smith', 'pswd': 'sqv7cNZO', 'gender': 'Male'} has been added successfully
+2023-02-05 23:52:51,450: INFO: the customer with the details {'email': 'ksaqklir@gmail.com', 'fname': 'Ethan', 'lname': 'Smith', 'pswd': 'sqv7cNZO', 'gender': 'Male'} has been added successfully
+2023-02-05 23:52:51,450: INFO: the customer with the details {'email': 'ksaqklir@gmail.com', 'fname': 'Ethan', 'lname': 'Smith', 'pswd': 'sqv7cNZO', 'gender': 'Male'} has been added successfully
+2023-02-05 23:52:55,620: INFO: *******verifying Login test*********
+2023-02-05 23:52:55,620: INFO: *******verifying Login test*********
+2023-02-05 23:52:55,620: INFO: *******verifying Login test*********
+2023-02-05 23:52:55,620: INFO: *******verifying Login test*********
+2023-02-05 23:53:08,583: INFO: *******Login test is passed*********
+2023-02-05 23:53:08,583: INFO: *******Login test is passed*********
+2023-02-05 23:53:08,583: INFO: *******Login test is passed*********
+2023-02-05 23:53:08,583: INFO: *******Login test is passed*********
+2023-02-07 14:36:02,272: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-07 14:36:02,272: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-07 14:36:02,272: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-07 14:36:02,272: INFO: +++++++++++++++logged into the application++++++++++++++++++
+2023-02-07 14:36:26,934: INFO: the customer with the details {'email': '34gbx7h0@gmail.com', 'fname': 'William', 'lname': 'Anderson', 'pswd': 'e2oqfZqc', 'gender': 'Male'} has been added successfully
+2023-02-07 14:36:26,934: INFO: the customer with the details {'email': '34gbx7h0@gmail.com', 'fname': 'William', 'lname': 'Anderson', 'pswd': 'e2oqfZqc', 'gender': 'Male'} has been added successfully
+2023-02-07 14:36:26,934: INFO: the customer with the details {'email': '34gbx7h0@gmail.com', 'fname': 'William', 'lname': 'Anderson', 'pswd': 'e2oqfZqc', 'gender': 'Male'} has been added successfully
+2023-02-07 14:36:26,934: INFO: the customer with the details {'email': '34gbx7h0@gmail.com', 'fname': 'William', 'lname': 'Anderson', 'pswd': 'e2oqfZqc', 'gender': 'Male'} has been added successfully
+2023-02-07 14:36:28,664: INFO: *******verifying Login test*********
+2023-02-07 14:36:28,664: INFO: *******verifying Login test*********
+2023-02-07 14:36:28,664: INFO: *******verifying Login test*********
+2023-02-07 14:36:28,664: INFO: *******verifying Login test*********
+2023-02-07 14:36:36,366: INFO: *******Login test is passed*********
+2023-02-07 14:36:36,366: INFO: *******Login test is passed*********
+2023-02-07 14:36:36,366: INFO: *******Login test is passed*********
+2023-02-07 14:36:36,366: INFO: *******Login test is passed*********

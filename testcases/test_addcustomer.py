@@ -89,6 +89,7 @@ class Test_003_add_customer:
         m=p.findall(text)
         if len(m)!=0:
             assert True
+            self.driver.close()
             self.logger.info("the customer with the details {} has been added successfully".format(dict(zip(list1,details))))
         else:
             assert False
